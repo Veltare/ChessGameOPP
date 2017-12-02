@@ -12,95 +12,92 @@ c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(256): warning C4018: <: несоответствие типов со знаком и без знака
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(258): warning C4018: <: несоответствие типов со знаком и без знака
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(261): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(308): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(309): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(341): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(347): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(372): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(379): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(405): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(412): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(447): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(453): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(478): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(485): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(512): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(518): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(565): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(567): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(569): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(576): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(585): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(601): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(602): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(304): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(305): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(337): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(343): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(368): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(375): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(401): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(408): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(443): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(449): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(474): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(481): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(508): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(514): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(562): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(564): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(566): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(573): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(582): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(598): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(599): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(637): warning C4018: <: несоответствие типов со знаком и без знака
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(639): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(641): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(643): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(653): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(660): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(666): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(679): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(686): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(692): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(699): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(701): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(704): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(719): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(720): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(655): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(663): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(718): warning C4018: <: несоответствие типов со знаком и без знака
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(727): warning C4018: <: несоответствие типов со знаком и без знака
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(729): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(774): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(776): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(778): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(785): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(794): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(810): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(811): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(845): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(847): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(849): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(856): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(865): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(881): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(882): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(917): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(919): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(921): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(928): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(937): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(953): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(954): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(990): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(996): warning C4305: аргумент: усечение из "double" в "float"
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(999): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1001): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1042): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1044): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1111): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1113): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1115): warning C4305: аргумент: усечение из "double" в "float"
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1116): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1117): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1121): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1127): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1145): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1147): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1168): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1177): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1179): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1233): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1297): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1385): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1387): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1403): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1405): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1439): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1440): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(335): warning C4715: Pawn::Movement: значение возвращается не при всех путях выполнения
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(549): warning C4715: Pawn::Attack: значение возвращается не при всех путях выполнения
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(830): warning C4715: Rooks::Movement: значение возвращается не при всех путях выполнения
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(758): warning C4715: Knight::Movement: значение возвращается не при всех путях выполнения
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(621): warning C4715: Elephant::Movement: значение возвращается не при всех путях выполнения
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(901): warning C4715: Queen::Movement: значение возвращается не при всех путях выполнения
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(973): warning C4715: King::Movement: значение возвращается не при всех путях выполнения
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(737): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(739): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(761): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(770): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(853): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(854): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(896): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(898): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(900): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(907): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(916): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(932): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(933): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(967): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(969): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(971): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(978): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(987): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1003): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1004): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1039): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1041): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1043): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1050): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1059): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1075): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1076): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1112): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1118): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1121): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1123): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1164): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1166): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1233): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1235): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1237): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1238): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1239): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1243): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1249): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1267): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1269): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1290): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1299): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1301): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1355): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1419): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1507): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1509): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1543): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1544): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(546): warning C4715: Pawn::Attack: значение возвращается не при всех путях выполнения
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(952): warning C4715: Rooks::Movement: значение возвращается не при всех путях выполнения
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(331): warning C4715: Pawn::Movement: значение возвращается не при всех путях выполнения
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(880): warning C4715: Knight::Movement: значение возвращается не при всех путях выполнения
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(840): warning C4715: Knight::Attack: значение возвращается не при всех путях выполнения
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(618): warning C4715: Elephant::Movement: значение возвращается не при всех путях выполнения
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1023): warning C4715: Queen::Movement: значение возвращается не при всех путях выполнения
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1095): warning C4715: King::Movement: значение возвращается не при всех путях выполнения
   OPP_GAME_CURS.vcxproj -> C:\Users\TakBled\Documents\Visual Studio 2017\Project\SFML_OPP_Graphics\Debug\OPP_GAME_CURS.exe

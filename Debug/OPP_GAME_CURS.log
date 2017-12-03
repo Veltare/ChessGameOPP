@@ -13,10 +13,22 @@ c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1651): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1652): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
 c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1803): warning C4305: аргумент: усечение из "double" в "float"
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1923): warning C4305: аргумент: усечение из "double" в "float"
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1924): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1925): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1929): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(2039): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(2098): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1875): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1876): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1884): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1885): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1893): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1894): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1902): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1903): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1911): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1912): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1920): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1921): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1935): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1936): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1937): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(1941): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(2051): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\takbled\documents\visual studio 2017\project\sfml_opp_graphics\opp_game_curs\opp_game_curs.cpp(2110): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
   OPP_GAME_CURS.vcxproj -> C:\Users\TakBled\Documents\Visual Studio 2017\Project\SFML_OPP_Graphics\Debug\OPP_GAME_CURS.exe
